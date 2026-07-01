@@ -1,0 +1,153 @@
+canonical_identifier: bkk:krp/KR6k0180/v1
+canonical_location: https://kanripo.org/bkk/KR6k0180/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 釋門章服儀
+  identifiers:
+    alt_id:
+    - T45n1894
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1894.xml
+    old_id: T45n1894
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0180_000.yaml, hash: 'sha256:9cc6f4b61119dd63ae7208bc92b59bda2a0db34601d32ff975597ade0d728d93'}
+  - {seq: 1, filename: KR6k0180_001.yaml, hash: 'sha256:1f2b78c15b8d0c3ad74216067e8d3d5c5840e72fc15830b1ba518f370b6f6dde'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0180_000.markers.yaml, hash: 'sha256:705fec18cf04dc45a7f941c1599b48368296bf3a124495a2d2a7d0a8976ebbab'}
+  - {seq: 1, role: markers, filename: assets/KR6k0180_001.markers.yaml, hash: 'sha256:d67476a151d1bb4869d13b378fdee1f89b250fe19576a1bfdcd5d58f6c3526cb'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0180_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 釋門章服儀序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0180_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7059
+  label: 釋門章服儀
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0180_T_001-mulu-1
+    span:
+    - body
+    - 720
+    - 720
+  label: 1 制意釋名篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0180_T_001-mulu-2
+    span:
+    - body
+    - 1490
+    - 1490
+  label: 2 立體拔俗篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0180_T_001-mulu-3
+    span:
+    - body
+    - 3981
+    - 3981
+  label: 3 勝德經遠篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0180_T_001-mulu-4
+    span:
+    - body
+    - 4211
+    - 4211
+  label: 4 法色光俗篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0180_T_001-mulu-5
+    span:
+    - body
+    - 4570
+    - 4570
+  label: 5 裁製應法篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0180_T_001-mulu-6
+    span:
+    - body
+    - 5062
+    - 5062
+  label: 6 方量幢相篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0180_T_001-mulu-7
+    span:
+    - body
+    - 5460
+    - 5460
+  label: 7 單複有據篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0180_T_001-mulu-8
+    span:
+    - body
+    - 5652
+    - 5652
+  label: 8 縫製裁成篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0180_T_001-mulu-9
+    span:
+    - body
+    - 6295
+    - 6295
+  label: 9 補浣誠教篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0180_T_001-mulu-10
+    span:
+    - body
+    - 6407
+    - 6407
+  label: 10 加法行護篇
+  type: mulu
+  level: 1
+hash: sha256:183312de606fe20ea868e2870d54bb448e660ff7980734ab35d5f773a08e37ef
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
