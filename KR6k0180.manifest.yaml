@@ -21,17 +21,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6k0180_000.yaml, hash: 'sha256:2af0534ef8d16fd583f1cea15d9115095a8846afc472f5fa0ea308c99812f75d'}
+  - {seq: 0, filename: KR6k0180_000.yaml, hash: 'sha256:983a540b0d54cd7a240f1c25e5b94010a06b6b863258ee13818a3d71da100845'}
   - {seq: 1, filename: KR6k0180_001.yaml, hash: 'sha256:3ccb48401d0172c2d9c257e3d23482775f8ff43b2dff0c82d5276e84278d46d4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0180_000.markers.yaml, hash: 'sha256:bb7fe83741d65bb2b48617cbd31fa71865efa37cd9b3f31129b49b679d4d1ea9'}
+  - {seq: 0, role: markers, filename: assets/KR6k0180_000.markers.yaml, hash: 'sha256:811f3b4b30ca8b701314fa6ae9247f85b2b255d8afccfe8131c40c493121565f'}
   - {seq: 1, role: markers, filename: assets/KR6k0180_001.markers.yaml, hash: 'sha256:2b00fde4a0f1508e2b9902d3c892ea0802b47a25c401f3f97dd0ced38ebb6da5'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6k0180_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 釋門章服儀序
@@ -147,7 +147,7 @@ table_of_contents:
   label: 10 加法行護篇
   type: mulu
   level: 1
-hash: sha256:b80b0bd86c8dbd7bcc8dbd3412079831e4ec680924231ca57a5b0700e29938ec
+hash: sha256:965275807bd99c267d2b54a7e3a301da407249c9cca13879a1a665b6752b9443
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
